@@ -51,13 +51,13 @@
             "Medida": "475ml"
         },
         {
-            "id": 1,
+            "id": 2,
             "Marca": "Heineken",
             "Preco": "15,00",
             "Medida": "269ml"
         },
         {
-            "id": 1,
+            "id": 3,
             "Marca": "Agua",
             "Preco": "5,00",
             "Medida": "500ml"
