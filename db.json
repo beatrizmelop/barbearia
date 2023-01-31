@@ -1,0 +1,66 @@
+{
+    "Barbeiros": [
+        {
+            "Nome": "Davi",
+            "Idade": 26,
+            "Cidade": "Rio de Janeiro",
+            "Ano de início": 2018,
+            "id": 1
+        },
+        {
+            "Nome": "Alan",
+            "Idade": 33,
+            "Cidade": "Rio de Janeiro",
+            "Ano de início": 2010,
+            "id": 2
+        },
+        {
+            "Nome": "Julio",
+            "Idade": 25,
+            "Cidade": "Rio de Janeiro",
+            "Ano de início": 2021,
+            "id": 3
+        }
+ 
+    ],
+    "Cortes": [
+        {
+            "id": "1",
+            "TipoDeCorte": "Undercut",
+            "Material": "Maquina",
+            "Preco": "43,00"
+        },
+        {
+            "id": "2",
+            "TipoDeCorte": "Militar",
+            "Material": "Maquina",
+            "Preco": "50,00"
+        },
+        {
+            "id": "1",
+            "TipoDeCorte": "Pompadour",
+            "Material": "Tesoura",
+            "Preco": "55,00"
+        }
+    ],
+    "Bar": [
+        {
+            "id": 1,
+            "Marca": "Brahma",
+            "Preco": "8,00",
+            "Medida": "475ml"
+        },
+        {
+            "id": 1,
+            "Marca": "Heineken",
+            "Preco": "15,00",
+            "Medida": "269ml"
+        },
+        {
+            "id": 1,
+            "Marca": "Agua",
+            "Preco": "5,00",
+            "Medida": "500ml"
+        }
+    ]
+}

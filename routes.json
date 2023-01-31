@@ -1,0 +1,14 @@
+{
+    "GET/barbeiros/list": "/barbeiros/",
+    "POST/barbeiros/create": "/barbeiros/",
+    "PUT/barbeiros/update/:id": "/barbeiros/:id",
+    "DELETE/barbeiros/delete/:id": "/barbeiros/:id",
+    "GET/cortes/list": "/cortes/",
+    "POST/cortes/create": "/cortes/",
+    "PUT/cortes/update/:id": "/cortes/:id",
+    "DELETE/cortes/delete/:id": "/cortes/:id",
+    "GET/bar/list": "/bar/",
+    "POST/bar/create": "/bar/",
+    "PUT/bar/update/:id": "/bar/:id",
+    "DELETE/bar/delete/:id": "/bar/:id"
+}
